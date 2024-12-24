@@ -25,3 +25,8 @@ echo "$(top -l 1 | grep "CPU usage")" >> /Users/arpo/status.txt
 echo "$(top -l 1 | grep "Processes:")" >> /Users/arpo/status.txt
 ```
 
+# Доп. источники
+https://www.baeldung.com/linux/at-command
+https://www.google.com/
+
+
